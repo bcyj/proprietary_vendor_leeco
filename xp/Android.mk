@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),x2)
+ifeq ($(TARGET_DEVICE),xp)
 
 endif
